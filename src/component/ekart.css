@@ -1,0 +1,33 @@
+.wrapper{
+    display: inline-block;
+    text-align: center;
+    background-color: aqua;
+    width: 400px;
+    height: auto;
+    margin: 20px;
+    
+  }
+  .image{
+    /* display: flex; */
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }
+  
+  
+  .wrapper p {
+    font-size: 12px;
+    text-align: center;
+  
+  }
+  .abc{
+    padding: 25px 20px;
+    background-color: bisque;
+    border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    width: 100%;
+    font-size: 15px;
+  }
